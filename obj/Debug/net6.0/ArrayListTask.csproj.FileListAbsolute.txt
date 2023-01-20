@@ -1,0 +1,15 @@
+D:\InductionTasks\ArrayListTask\bin\Debug\net6.0\ArrayListTask.exe
+D:\InductionTasks\ArrayListTask\bin\Debug\net6.0\ArrayListTask.deps.json
+D:\InductionTasks\ArrayListTask\bin\Debug\net6.0\ArrayListTask.runtimeconfig.json
+D:\InductionTasks\ArrayListTask\bin\Debug\net6.0\ArrayListTask.dll
+D:\InductionTasks\ArrayListTask\bin\Debug\net6.0\ArrayListTask.pdb
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ArrayListTask.csproj.AssemblyReference.cache
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ArrayListTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ArrayListTask.AssemblyInfoInputs.cache
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ArrayListTask.AssemblyInfo.cs
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ArrayListTask.csproj.CoreCompileInputs.cache
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ArrayListTask.dll
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\refint\ArrayListTask.dll
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ArrayListTask.pdb
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ArrayListTask.genruntimeconfig.cache
+D:\InductionTasks\ArrayListTask\obj\Debug\net6.0\ref\ArrayListTask.dll
